@@ -9,3 +9,5 @@
 
 - ./install_kvm_in_Bookworm.sh
 
+- sudo rm -r ~/Downloads/install-kvm/
+
