@@ -1,5 +1,5 @@
 # install-kvm-in-Bookworm
-Installing in terminal
+Install in terminal
 
 git clone https://github.com/tonisimonovski/install-kvm-in-Bookworm/ ~/Downloads/install-kvm
 
