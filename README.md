@@ -6,3 +6,6 @@ git clone https://github.com/tonisimonovski/install-kvm-in-Bookworm/ ~/Downloads
 cd ~/Downloads/install-kvm/KVM
 
 chmod +x install_kvm_in_Bookworm.sh
+
+./install_kvm_in_Bookworm.sh
+
